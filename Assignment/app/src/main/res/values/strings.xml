@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="btn_notify">Notify Me</string>
+    <string name="btn_move">Move</string>
+    <string name="tv_state">Inactive</string>
+    <string name="notification_title">First Notification</string>
+    <string name="notification_content">Hello! This is my first trial of notification in Android</string>
+    <string name="channel_name">Dynamic Tech</string>
+    <string name="channel_description">Dynamic Soft Technology! Tech Solutions at your doorstep</string>
+</resources>
